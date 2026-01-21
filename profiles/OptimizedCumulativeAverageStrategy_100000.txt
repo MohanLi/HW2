@@ -1,0 +1,14 @@
+         400003 function calls in 0.215 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.034    0.034    0.215    0.215 /Users/mac/Desktop/2025 Winter/Real-Time Intelligence System/Assignment/hw2/profiler.py:47(run_strategy)
+   100000    0.094    0.000    0.177    0.000 /Users/mac/Desktop/2025 Winter/Real-Time Intelligence System/Assignment/hw2/strategies.py:91(generate_signals)
+   100000    0.073    0.000    0.073    0.000 <string>:2(__init__)
+   100000    0.011    0.000    0.011    0.000 /Users/mac/Desktop/2025 Winter/Real-Time Intelligence System/Assignment/hw2/strategies.py:23(_action)
+   100000    0.004    0.000    0.004    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 /Users/mac/Desktop/2025 Winter/Real-Time Intelligence System/Assignment/hw2/strategies.py:87(reset)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
